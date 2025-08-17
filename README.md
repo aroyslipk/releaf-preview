@@ -1,4 +1,10 @@
-# Releaf (Preview) 🌱
+
+<div align="center">
+  <h1>#Releaf (Preview) 🌱</h1>
+</div>
+
+
+
 _A Java-based eco-task management web application built with JSP, Servlets, and MySQL._
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
