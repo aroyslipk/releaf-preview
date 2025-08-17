@@ -17,7 +17,7 @@ _A Java-based eco-task management web application built with JSP, Servlets, and 
 
 ## 🌿 About Releaf
 Releaf is an eco-task web app where users unlock topics, complete green challenges, earn points, and track their environmental impact.  
-This repository is a **preview** only. The full source code is private.  
+This repository is a **preview** only. 
 
 Coming soon as open-source — Releaf aims to become the go-to eco-habit tracker for everyone.  If you need now be part of Releaf contact: **releafecobd@gmail.com / anik.byteinfo11@gmail.com**
 
