@@ -163,6 +163,20 @@ _Full instructions available with licensed source code._
 
 ---
 
+---
+
+## 🗺️Future Vision
+
+We are constantly working to make Releaf more impactful. Here are some exciting features planned for the future:
+
+-   **💬 Group Chat Functionality:** To foster a stronger community, we will implement a real-time chat feature within groups, allowing users to connect and collaborate on their eco-journey.
+
+-   **🛍️ EcoStore:** An integrated marketplace where users can redeem their hard-earned XP to purchase sustainable products or get exclusive discounts from eco-friendly brands.
+
+-   **🌐 EcoVast Hub:** A centralized platform to bring all eco-related organizations under one roof. This will allow users to easily discover and connect with local and global environmental initiatives, events, and volunteer opportunities directly from the Releaf app.
+
+---
+
 ## 📩 Contact
 For demo access or full source code licensing, contact:  
 📧 ** releafecobd@gmail.com / anik.byteinfo11@gmail.com ** 
