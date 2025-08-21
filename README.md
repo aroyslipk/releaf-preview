@@ -173,7 +173,7 @@ We are constantly working to make Releaf more impactful. Here are some exciting 
 
 -   **🛍️ EcoStore:** An integrated marketplace where users can redeem their hard-earned XP to purchase sustainable products or get exclusive discounts from eco-friendly brands.
 
--   **🌐 EcoVast Hub:** A centralized platform to bring all eco-related organizations under one roof. This will allow users to easily discover and connect with local and global environmental initiatives, events, and volunteer opportunities directly from the Releaf app.
+-   **🌐 EcoVest:** A centralized platform to bring all eco-related organizations under one roof. This will allow users to easily discover and connect with local and global environmental initiatives, events, and volunteer opportunities directly from the Releaf app.
 
 ---
 
